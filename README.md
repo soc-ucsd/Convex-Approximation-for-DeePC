@@ -34,4 +34,4 @@ The code requires the installation of [Mosek](https://www.mosek.com/) and the pl
 - The results for reproducing Fig. 5 and Fig. 6 are in `results_100Exp`. The Fig. 5 and Fig. 6 are plotted by `plot_avg_cost` and `plot_avg_cost_var`, respectively. 
 
 # Contact us
-To contact us about robust DeeP-LCC, email either [Xu Shang](mailto:x3shang@ucsd.edu?Subject=Robust-DeeP-LCC) or [Yang Zheng](mailto:zhengy@eng.ucsd.edu?Subject=Convex Approximation for DeePC).
+To contact us about robust DeeP-LCC, email either [Xu Shang](mailto:x3shang@ucsd.edu?Subject=Convex-Approximation-for-DeePC) or [Yang Zheng](mailto:zhengy@eng.ucsd.edu?Subject=Convex-Approximation-for-DeePC).
