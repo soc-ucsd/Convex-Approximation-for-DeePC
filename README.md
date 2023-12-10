@@ -1,9 +1,9 @@
 # Convex Approximation for DeePC
-In this project, we introduce a new bi-level optimization formulation and discuss a series of its convex approximations by relaxing some hard constraints. This repository contains the MATLAB scripts for reproducing the experiments in our paper which can be found [here](https://arxiv.org/abs/2310.00509).
+In this project, we introduce a new bi-level optimization formulation and discuss a series of its convex approximations by relaxing some hard constraints. This repository contains the MATLAB scripts for reproducing the experiments in our paper.
 
 ## Convex Approximations for a Bi-level Formulation of Data-Enabled Predictive Control (DeePC)
 
-Data-EnablEd Predictive Control (*DeePC*) combines behavioral theory with receding horizon control has received increasing attention. It  is first established for LTI systems and has been extended and applied for practical systems beyond LTI settings which has shown promising results. However, the relationship between different  *DeePC*  variants, involving regularization and dimension reduction, remains unclear. 
+Data-EnablEd Predictive Control (*DeePC*) combines behavioral theory with receding horizon control has received increasing attention. It is first established for LTI systems and has been extended and applied for practical systems beyond LTI settings which has shown promising results. However, the relationship between different  *DeePC*  variants, involving regularization and dimension reduction, remains unclear. 
 
 In this paper, we introduce a new bi-level formulation incorporating both system ID techniques and predictive control, and discuss how existing and new variants of  *DeePC*  can be considered as convex approximations of this bi-level formulation. Notably, a novel variant called *DeeP-SVD-Iter* has shown remarkable empirical performance on systems beyond deterministic LTI settings.
 <figure>
